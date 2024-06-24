@@ -1,9 +1,7 @@
 package main
 
-import (
-	"vendor/ft"
-)
+import "piscine"
 
 func main() {
-	PrintRune("hello world")
+	piscine.PrintAlphabet()
 }
